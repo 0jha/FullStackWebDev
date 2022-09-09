@@ -11,7 +11,7 @@ OR - ||  (One should be True then True, Both False means False)
     F || T - T
     F || F - F
 
-NOT
+NOT - !
     Not True - False
     Not False - True
 
