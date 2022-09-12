@@ -36,7 +36,8 @@ console.log(addNumbers(8,23));
 console.log(addNumbers(9,45));
 
 // Parameters & Arguments
-//-----------parameters--------------------
+//-----------parameters--------------------arguments in function
+//-----------arguments--------------------- values in a function while callinmg
 /*
 function functionname(parameter1 , parameter2)
 {
